@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shinrobu
-- 👀 I’m interested in JavaScript and LaTeX,
+- 👀 I’m interested in JavaScript and LaTeX.
 - 🌱 I’m currently learning C#, C++, and Python!
 
 <!---
