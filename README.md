@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shinrobu
-- 👀 I’m interested in JavaScript and LaTeX.
 - 🌱 I’m currently learning C#, C++, and Python!
+- 👀 I’m interested in JavaScript and LaTeX.
 
 <!---
 shinrobu/shinrobu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
