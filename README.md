@@ -12,11 +12,11 @@
 <h3 align="center">Currently Interested In:</h3>
 
 <p align = "center">
+  <img alt = "Ruby" src = "https://img.shields.io/badge/-Ruby-FF0000?style=for-the-badge&logo=Ruby">
   <img alt = "JavaScript" src = "https://img.shields.io/badge/-JavaScript-orange?style=for-the-badge&logo=javascript">
   <img alt = "HTML5" src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt = "CSS" src = "https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3">
   <img alt = "LaTeX" src = "https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex">
-  <img alt = "Ruby" src = "https://img.shields.io/badge/-Ruby-FF0000?style=for-the-badge&logo=Ruby">
   <br>
   <br>
   <img src = "https://github-readme-stats.vercel.app/api?username=shinrobu&theme=material-palenight">
