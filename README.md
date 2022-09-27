@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<a href="https://shinrobu.github.io/">My Website</a>
+<a href="https://shinrobu.github.io/">My Personal Website</a>
 </p>
 
 <h3 align="center">Intermediate Skills In:</h3>
