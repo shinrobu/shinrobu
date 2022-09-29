@@ -28,7 +28,6 @@
   <img alt = "LaTeX" src = "https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex">
   <br>
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=shinrobu&theme=material-palenight">
 </p>
 
 <!---
