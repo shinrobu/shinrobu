@@ -6,14 +6,8 @@
 <a href="https://shinrobu.github.io/">My Personal Website</a>
 </p>
 
-<h3 align="center">Intermediate Skills In:</h3>
-
 <p align="center">
   <img alt = "C++" src = "https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus">
-</p>
- 
-<h3 align="center">Basic Skills In:</h3>
-<p align="center">
   <img alt = "C#" src =https://img.shields.io/badge/-C%23-brightgreen?style=for-the-badge&logo=csharp>
   <img alt = "Python" src = "https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img alt = "JavaScript" src = "https://img.shields.io/badge/-JavaScript-orange?style=for-the-badge&logo=javascript">
