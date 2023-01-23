@@ -3,9 +3,10 @@
 
 
 <p align="center">
-<a href="https://shinrobu.github.io/">My Personal Website</a>
+  <a href="https://shinrobu.github.io/"><code>My Personal Website</code></a>
 </p>
 
+<p align="center">Languages I have worked with:</p>
 <p align="center">
   <a href = "https://github.com/shinrobu?tab=repositories&q=&type=&language=c%2B%2B&sort="><img alt = "C++" src = "https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus"></a>
   <a href = "https://github.com/shinrobu?tab=repositories&q=&type=&language=c%23&sort="><img alt = "C#" src = "https://img.shields.io/badge/-C%23-brightgreen?style=for-the-badge&logo=csharp"></a>
@@ -15,14 +16,22 @@
   <img alt = "CSS" src = "https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3">
 </p>
 
-<h3 align="center">Currently Interested In:</h3>
-
+<p align="center">Currently interested in:</p>
 <p align = "center">
   <img alt = "Ruby" src = "https://img.shields.io/badge/-Ruby-FF0000?style=for-the-badge&logo=Ruby">
   <img alt = "LaTeX" src = "https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex">
   <br>
   <br>
 </p>
+
+<p align="center">
+  <img alt="GitHub Streaks" src="https://streak-stats.demolab.com/?user=shinrobu&theme=material-palenight">
+</p>
+
+| ![img](https://github-readme-stats.vercel.app/api?username=shinrobu&hide=stars&count_private=true&show_icons=true&theme=material-palenight) | ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=shinrobu&layout=compact&langs_count=10&theme=material-palenight) |
+| - | - |
+
+$~$
 
 <!---
 shinrobu/shinrobu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
