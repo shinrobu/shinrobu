@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Los_Angeles
           config_order: base.header, base.activity+community, base.repositories, habits, leetcode, anilist
+          config_display: columns
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
