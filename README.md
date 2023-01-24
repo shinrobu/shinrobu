@@ -17,13 +17,12 @@
 <!--- Readme stats --->
 
 <p align="center">
+  <img alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinrobu&layout=compact&langs_count=10&theme=material-palenight">
+  <br>
   <img alt="GitHub Streaks" src="https://streak-stats.demolab.com/?user=shinrobu&theme=material-palenight">
+  <br>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shinrobu&hide=stars&count_private=true&show_icons=true&theme=material-palenight">
 </p>
-
-| ![img](https://github-readme-stats.vercel.app/api?username=shinrobu&hide=stars&count_private=true&show_icons=true&theme=material-palenight) | ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=shinrobu&layout=compact&langs_count=10&theme=material-palenight) |
-| - | - |
-
-$~$
 
 <!--- lowlight's GitHub Metrics --->
 <p align="center">
