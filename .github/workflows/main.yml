@@ -19,14 +19,6 @@ jobs:
           config_timezone: America/Los_Angeles
           config_order: base.header, base.activity+community, habits, leetcode, anilist
           config_display: columns
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
           plugin_anilist: yes
