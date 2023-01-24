@@ -26,6 +26,7 @@ jobs:
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
           plugin_anilist: yes
+          plugin_anilist_user: Moeblob
           plugin_anilist_medias: anime, manga, characters
           plugin_anilist_sections: favorites
           plugin_leetcode: yes
