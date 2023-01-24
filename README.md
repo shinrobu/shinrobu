@@ -26,7 +26,10 @@
 $~$
 
 <!--- lowlight's GitHub Metrics --->
-<img align="center" src="/github-metrics.svg" alt="Metrics">
+<p align="center">
+  <img align="center" src="/github-metrics.svg" alt="Metrics">
+</p>
+
 
 <!---
 shinrobu/shinrobu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
