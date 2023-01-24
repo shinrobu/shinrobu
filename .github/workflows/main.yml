@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Los_Angeles
           config_order: base.header, base.activity+community, leetcode, anilist
-          config_display: regular
+          config_display: columns
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
           plugin_anilist: yes
