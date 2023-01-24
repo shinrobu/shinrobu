@@ -24,6 +24,8 @@
   <br>
 </p>
 
+<!--- Readme stats --->
+
 <p align="center">
   <img alt="GitHub Streaks" src="https://streak-stats.demolab.com/?user=shinrobu&theme=material-palenight">
 </p>
@@ -33,6 +35,8 @@
 
 $~$
 
+<!--- lowlight's GitHub Metrics --->
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 <!---
 shinrobu/shinrobu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
