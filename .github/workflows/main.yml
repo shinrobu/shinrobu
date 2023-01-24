@@ -27,9 +27,19 @@ jobs:
           plugin_habits_languages_threshold: 0%
           plugin_anilist: yes
           plugin_anilist_user: Moeblob
-          plugin_anilist_medias: anime, manga, characters
-          plugin_anilist_sections: favorites
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, characters
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
+          extras_css: |
+            .field svg {
+            fill: #c692e9;
+            }
+            .field {
+            color: #ad85d4;
+            }
+            h1, h2, h3 {
+            color: #804fb3 !important;
+            }
           
           
