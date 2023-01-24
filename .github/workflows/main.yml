@@ -16,6 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Los_Angeles
+          config_order: base.header, base.activity+community, base.repositories, habits, leetcode, anilist
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
@@ -30,6 +31,9 @@ jobs:
           plugin_anilist_user: Moeblob
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 5
+          plugin_anilist_limit_characters: 10
+          plugin_anilist_shuffle: no
           extras_css: |
             .field svg {
             fill: #c692e9;
