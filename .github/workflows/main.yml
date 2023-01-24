@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Los_Angeles
-          config_order: base.header, base.activity+community, base.repositories, habits, leetcode, anilist
+          config_order: base.header, base.activity+community, base.repositories, habits, leetcode
           config_display: columns
           plugin_habits: yes
           plugin_habits_charts: yes
@@ -28,13 +28,6 @@ jobs:
           plugin_habits_languages_threshold: 0%
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
-          plugin_anilist: yes
-          plugin_anilist_user: Moeblob
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 3
-          plugin_anilist_limit_characters: 10
-          plugin_anilist_shuffle: no
           extras_css: |
             .field svg {
             fill: #c692e9;
@@ -43,7 +36,16 @@ jobs:
             color: #ad85d4;
             }
             h1, h2, h3 {
-            color: #804fb3 !important;
+            color: #50326f !important;
             }
+          extras_js: |
+            for (const {a, b} of [
+             {a:"#216e39", b:"#50326f"},
+             {a:"#30a14e", b:"#6c498c"},
+             {a:"#40c463", b:"#8960aa"},
+             {a:"#9be9a8", b:"#a779c9"},
+             {a:"#ebedf0", b:"#c692e9"},
+             ])
+             document.querySelectorAll(`svg g [fill="${a}"]`).forEach(node => node.setAttribute("fill", b))
           
           
