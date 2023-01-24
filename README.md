@@ -14,9 +14,6 @@
   <img alt = "CSS" src = "https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3">
 </p>
 
-<!--- lowlight's GitHub Metrics --->
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
 <!--- Readme stats --->
 
 <p align="center">
@@ -27,6 +24,9 @@
 | - | - |
 
 $~$
+
+<!--- lowlight's GitHub Metrics --->
+<img align="center" src="/github-metrics.svg" alt="Metrics">
 
 <!---
 shinrobu/shinrobu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
