@@ -16,14 +16,6 @@
   <img alt = "CSS" src = "https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3">
 </p>
 
-<p align="center">Currently interested in:</p>
-<p align = "center">
-  <img alt = "Ruby" src = "https://img.shields.io/badge/-Ruby-FF0000?style=for-the-badge&logo=Ruby">
-  <img alt = "LaTeX" src = "https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex">
-  <br>
-  <br>
-</p>
-
 <!--- Readme stats --->
 
 <p align="center">
