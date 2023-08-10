@@ -49,8 +49,8 @@ color: #693f95 !important;
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#c692e9" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#c692e9" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#c692e9" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#c692e9" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#693f95" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#693f95" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#c692e9" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#c692e9" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -159,9 +159,9 @@ color: #693f95 !important;
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.5847849271240668 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.5845771144278606 329"/>
                                     <text x="60" y="50" dominant-baseline="central">5</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2813</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2814</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -188,7 +188,7 @@ color: #693f95 !important;
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/618</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/619</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
