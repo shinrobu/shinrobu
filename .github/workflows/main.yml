@@ -20,7 +20,7 @@ jobs:
           config_order: base.header, base.activity+community, repositories, anilist
           config_display: regular
           plugin_repositories: yes
-          plugin_repositories_pinned: 6
+          plugin_repositories_pinned: 3
           plugin_anilist: yes
           plugin_anilist_user: Moeblob
           plugin_anilist_medias: anime, manga
