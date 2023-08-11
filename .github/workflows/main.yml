@@ -17,10 +17,10 @@ jobs:
           base: header, activity, community
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Los_Angeles
-          config_order: base.header, base.activity+community, leetcode, anilist
+          config_order: base.header, base.activity+community, repositories, anilist
           config_display: regular
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6
           plugin_anilist: yes
           plugin_anilist_user: Moeblob
           plugin_anilist_medias: anime, manga
